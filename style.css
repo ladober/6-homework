@@ -1,0 +1,195 @@
+.nav {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-items {
+    width: 1220px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu-items {
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Inter';
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 825px;
+
+ }
+
+ .menu-consulting-item {
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+    width: 184px;
+    height: 65px;
+    background-color: #6B77E5;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+ }
+
+ /* main-body */
+
+ .article-text {
+    margin-top: 136px;
+    text-align: center;
+ }
+
+ .article-text span {
+    font-weight: 500;
+    size: 18px;
+    font-family: 'Inter';
+ }
+
+ .article-text h1 {
+    font-weight: 700;
+    font-size: 40px;
+    color: #37393F;
+    margin-top: 15px;
+    font-family: 'Poppins';
+ }
+
+ /* items section */
+
+ .items-section {
+    margin-top: 41px;
+    display: flex;
+    justify-content: center;    
+ }
+
+ .items {
+    width: 386px;
+    height: 383px;
+    background-color: #F4F4F4;
+    margin-left: 30px;
+    text-align: center;
+ }
+
+ .items-text-title {
+    font-weight: 600;
+    font-size: 25px;
+    font-family: 'Poppins';
+    color: #37393F;
+    position: relative;
+    top: 8%;
+ }
+
+ .items-section p{
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Inter';
+    position: relative;
+    top: 15%;
+ }
+
+ .items-section-footer {
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'Inter';
+    color: #6B77E5;
+    position: relative;
+    top: 25%;
+ }
+
+ .items-section-icon {
+    position: relative;
+    top: 30%;
+ }
+
+ .section-img {
+    margin-top: 60px;
+    background-image: url(img/Image.png);
+    height: 557px;
+    text-align: center;
+ }
+ .section-img-title {
+    position: relative;
+    top: 30%;
+ }
+
+ .section-img h1 {
+    font-weight: 700;
+    font-size: 40px;
+    font-family: 'Poppins';
+    position: relative;
+    top: 30%;
+ }
+ .section-img-footer {
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Inter';
+    color: #37393F;
+    position: relative;
+    top: 40%;
+ }
+
+ .play-button {
+    position: relative;
+    top: 50%;
+ }
+
+ /* our team */
+
+ .team-section {
+    text-align: center;
+    margin-top: 130px;
+ }
+ .team-title {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Inter';
+    color: #37393F;
+ }
+ .team-experts {
+    font-weight: 700;
+    font-size: 40px;
+    font-family: 'Poppins';
+    color: #37393F;
+ }
+
+ .experts-section {
+    margin-top: 41px;
+    display: flex;
+    justify-content: center;
+ }
+
+ .experts-pics {
+    margin-left: 31px;
+ }
+ .experts-title {
+    background-color: #FFFFFF;
+    text-align: center;
+    width: 341px;
+    height: 114px;
+    position: relative;
+    bottom: 22%;
+    left: 6%;
+ }
+
+.experts-title h1 {
+    font-weight: 600;
+    font-size: 25px;
+    font-family: 'Poppins';
+    color: #37393F;
+    position: relative;
+    top: 20%;
+}
+
+.experts-title span {
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Inter';
+    color: #7D7D7D;
+    position: relative;
+    top: 25%;
+}
+
+
+
+
+
